@@ -1,0 +1,13 @@
+{
+	"comment": "",
+	"ignore": "test",
+	"package": [
+		{
+			"checksumSHA1": "sEvLI3uHTq1udtfFl788bIXW3CM=",
+			"path": "github.com/miekg/dns",
+			"revision": "f282f80e243cc2bf8f6410c30d821b93b794e168",
+			"revisionTime": "2017-05-01T15:26:13Z"
+		}
+	],
+	"rootPath": "github.com/dpb587/dns-fuzz"
+}
