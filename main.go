@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"os"
 
-	"github.com/dpb587/dns-fuzz/handler"
+	"github.com/dpb587/dns-test-server/handler"
 	"github.com/miekg/dns"
 )
 
